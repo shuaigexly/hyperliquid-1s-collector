@@ -1,0 +1,4 @@
+coin: "BTC"
+base_url: "https://api.hyperliquid.xyz/info"
+db_path: "./data/hl_1s_kline.db"
+interval_pull_ms: 300 # 每 300ms 拉一次 recentTrades
